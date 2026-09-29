@@ -1,0 +1,13 @@
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.16.9",
+]
+
+[project]
+name = "retrieval-engine"
+version = "0.1.0"
+description = "..."
+readme = "README.md"
+dependencies = []
+requires-python = ">=3.13,<3.14"
