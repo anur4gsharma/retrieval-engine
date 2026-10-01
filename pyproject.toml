@@ -11,3 +11,6 @@ description = "..."
 readme = "README.md"
 dependencies = []
 requires-python = ">=3.13,<3.14"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

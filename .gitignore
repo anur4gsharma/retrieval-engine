@@ -3,5 +3,5 @@
 env
 
 node_modules
-pycache
+__pycache__/
 PROJECT_WORKING_GUIDE.txt
